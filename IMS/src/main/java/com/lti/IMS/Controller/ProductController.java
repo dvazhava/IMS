@@ -23,7 +23,7 @@ import com.lti.IMS.dao.ProductRepository;
 @RestController
 @RequestMapping("/inventory")
 public class ProductController {
-
+   #hwgdhs
 	@Autowired
 	ProductService ProdSer;
 	
